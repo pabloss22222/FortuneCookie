@@ -1,0 +1,16 @@
+
+h1:hover {
+    color: orange;
+}
+
+button:hover {
+    color: orange;
+}
+
+@media (width > 978px) {
+	.titulo {
+        font-size: 5rem !important;
+    }
+
+
+}
